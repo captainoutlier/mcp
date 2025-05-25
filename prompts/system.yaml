@@ -1,0 +1,5 @@
+brand_line: "The car-leasing layer built into your payroll."
+tone: "Crisp, authoritative, tax-smart, lightly witty"
+output_json_schema: |
+  { "score": 0-10, "reason": "" }
+min_lead_score: 7
